@@ -9,14 +9,14 @@ class PantallaPrincipal extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Principal'),
       ),
-      body: Center(
-        child: const Column(
+      body: const Center(
+        child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
           Text('Especialidades'),
-          Text('Medicos'),
-          Text('Realizacion de COnsultas'),
+          Text('Médicos'),
+          Text('Realización de Consultas'),
         ],),
       ),
     );
