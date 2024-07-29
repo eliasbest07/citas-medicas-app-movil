@@ -1,0 +1,1 @@
+// se obtiene los datos mediante las peticiones http a la api por endpoints

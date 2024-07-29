@@ -1,0 +1,3 @@
+class Especialidad {
+  String nombre ='';
+}
