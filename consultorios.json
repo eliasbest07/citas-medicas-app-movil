@@ -1,0 +1,37 @@
+[
+    {
+      "idConsultorio": 1,
+      "nombre": "Consultorio A",
+      "direccion": "Calle Falsa 123, Ciudad A",
+      "telefono": "555-1234",
+      "esActivo": true
+    },
+    {
+      "idConsultorio": 2,
+      "nombre": "Consultorio B",
+      "direccion": "Avenida Siempre Viva 742, Ciudad B",
+      "telefono": "555-5678",
+      "esActivo": true
+    },
+    {
+      "idConsultorio": 3,
+      "nombre": "Consultorio C",
+      "direccion": "Boulevard de los Sueños Rotos 123, Ciudad C",
+      "telefono": "555-8765",
+      "esActivo": true
+    },
+    {
+      "idConsultorio": 4,
+      "nombre": "Consultorio D",
+      "direccion": "Plaza de la Libertad 56, Ciudad D",
+      "telefono": "555-4321",
+      "esActivo": true
+    },
+    {
+      "idConsultorio": 5,
+      "nombre": "Consultorio E",
+      "direccion": "Paseo de los Robles 789, Ciudad E",
+      "telefono": "555-9876",
+      "esActivo": true
+    }
+  ]

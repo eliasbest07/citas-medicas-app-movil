@@ -1,0 +1,26 @@
+{
+    "medicos": [
+      {
+        "idPersona": 1,
+        "idEspecialidad": 1,
+        "numeroColegioMedicos": "12345",
+        "idConsultorio": 2
+      }
+    ],
+    "especialidades": [
+      {
+        "idEspecialidad": 1,
+        "nombre": "Cardiología",
+        "esActivo": true,
+        "tiempoConsulta": 30
+      }
+    ],
+    "consultasSolicitadas": [
+      {
+        "idHorarioConsulta": 1,
+        "idPaciente": 1,
+        "fueCumplida": false,
+        "observaciones": "Primera consulta"
+      }
+    ]
+  }

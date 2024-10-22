@@ -1,0 +1,32 @@
+[
+    {
+      "idPersona": 1,
+      "idEspecialidad": 1,
+      "numeroColegioMedicos": "1234",
+      "idConsultorio": 1
+    },
+    {
+      "idPersona": 2,
+      "idEspecialidad": 2,
+      "numeroColegioMedicos": "5678",
+      "idConsultorio": 2
+    },
+    {
+      "idPersona": 3,
+      "idEspecialidad": 3,
+      "numeroColegioMedicos": "9101",
+      "idConsultorio": 3
+    },
+    {
+      "idPersona": 4,
+      "idEspecialidad": 4,
+      "numeroColegioMedicos": "1121",
+      "idConsultorio": 4
+    },
+    {
+      "idPersona": 5,
+      "idEspecialidad": 5,
+      "numeroColegioMedicos": "3141",
+      "idConsultorio": 5
+    }
+  ]

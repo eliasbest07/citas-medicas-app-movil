@@ -1,0 +1,32 @@
+[
+    {
+      "idEspecialidad": 1,
+      "nombre": "Cardiología",
+      "esActivo": true,
+      "tiempoConsulta": 30
+    },
+    {
+      "idEspecialidad": 2,
+      "nombre": "Pediatría",
+      "esActivo": true,
+      "tiempoConsulta": 25
+    },
+    {
+      "idEspecialidad": 3,
+      "nombre": "Dermatología",
+      "esActivo": true,
+      "tiempoConsulta": 20
+    },
+    {
+      "idEspecialidad": 4,
+      "nombre": "Neurología",
+      "esActivo": true,
+      "tiempoConsulta": 40
+    },
+    {
+      "idEspecialidad": 5,
+      "nombre": "Ginecología",
+      "esActivo": true,
+      "tiempoConsulta": 35
+    }
+  ]

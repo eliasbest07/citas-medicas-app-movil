@@ -1,3 +1,4 @@
+import 'package:citas_medicas_app_movil/vistas/menu_principal.dart';
 import 'package:citas_medicas_app_movil/vistas/pantalla_principal.dart';
 import 'package:flutter/material.dart';
 
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 58, 96, 183)),
         useMaterial3: true,
       ),
-      home: const PantallaPrincipal(),
+      home: const MenuScreen(),
     );
   }
 }
